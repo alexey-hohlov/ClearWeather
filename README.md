@@ -1,2 +1,3 @@
 # ClearWeather
-Vanilla JavaScript Weather App
+Прогноз погоды
+---
